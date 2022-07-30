@@ -1,4 +1,4 @@
-PAC-based point cloud alignment
+PCA-based point cloud alignment
 
 The program is used to remove the influence of rotation for point clouds.
 
