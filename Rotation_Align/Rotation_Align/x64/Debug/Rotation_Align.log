@@ -1,0 +1,345 @@
+﻿  main_all.cpp
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(53,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(83,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(121,127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(135,133): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(219,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(220,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(221,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1954,1): warning C4267: 'argument': conversion from 'size_t' to 'vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::MarsenneTwisterURBG::result_type', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1934): message : while compiling class template member function 'void vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::PoissonDiskPruning(VertexSampler &,MeshType &,float,vcg::tri::SurfaceSampling<MeshType,VertexSampler>::PoissonDiskParam &)'
+          with
+          [
+              VertexSampler=vcg::tri::MeshSampler<MyMesh>,
+              MeshType=MyMesh
+          ]
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(127): message : see reference to function template instantiation 'void vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::PoissonDiskPruning(VertexSampler &,MeshType &,float,vcg::tri::SurfaceSampling<MeshType,VertexSampler>::PoissonDiskParam &)' being compiled
+          with
+          [
+              VertexSampler=vcg::tri::MeshSampler<MyMesh>,
+              MeshType=MyMesh
+          ]
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(121): message : see reference to class template instantiation 'vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>' being compiled
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1971,55): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1980,53): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(2005,83): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1797,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1787): message : while compiling class template member function 'float vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::ComputePoissonDiskRadius(MeshType &,int)'
+          with
+          [
+              MeshType=MyMesh
+          ]
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(121): message : see reference to function template instantiation 'float vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::ComputePoissonDiskRadius(MeshType &,int)' being compiled
+          with
+          [
+              MeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1836,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1835): message : while compiling class template member function 'void vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::InitSpatialHashTable(MeshType &,vcg::SpatialHashTable<MyVertex,float> &,float,vcg::tri::SurfaceSampling<MeshType,vcg::tri::MeshSampler<MeshType>>::PoissonDiskParam)'
+          with
+          [
+              MeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1942): message : see reference to function template instantiation 'void vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::InitSpatialHashTable(MeshType &,vcg::SpatialHashTable<MyVertex,float> &,float,vcg::tri::SurfaceSampling<MeshType,vcg::tri::MeshSampler<MeshType>>::PoissonDiskParam)' being compiled
+          with
+          [
+              MeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(755,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(685): message : while compiling class template member function 'int vcg::tri::io::ImporterVMI<OpenMeshType,long,double,int,short,char>::Deserialize(OpenMeshType &,int &)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(673): message : see reference to function template instantiation 'int vcg::tri::io::ImporterVMI<OpenMeshType,long,double,int,short,char>::Deserialize(OpenMeshType &,int &)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import.h(145): message : see reference to class template instantiation 'vcg::tri::io::ImporterVMI<OpenMeshType,long,double,int,short,char>' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import.h(116): message : while compiling class template member function 'int vcg::tri::io::Importer<MyMesh>::Open(OpenMeshType &,const char *,int &,vcg::CallBackPos (__cdecl *))'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import.h(111): message : see reference to function template instantiation 'int vcg::tri::io::Importer<MyMesh>::Open(OpenMeshType &,const char *,int &,vcg::CallBackPos (__cdecl *))' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(59): message : see reference to class template instantiation 'vcg::tri::io::Importer<MyMesh>' being compiled
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(766,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(309,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(214): message : while compiling class template member function 'int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(201): message : see reference to function template instantiation 'int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import.h(140): message : see reference to class template instantiation 'vcg::tri::io::ImporterOBJ<OpenMeshType>' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(309,57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(309,86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(310,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(422,24): warning C4834: discarding return value of function with 'nodiscard' attribute
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(492,63): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(670,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_off.h(481,37): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_off.h(130): message : while compiling class template member function 'int vcg::tri::io::ImporterOFF<OpenMeshType>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))'
+          with
+          [
+              OpenMeshType=MyMesh,
+              MESH_TYPE=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_off.h(125): message : see reference to function template instantiation 'int vcg::tri::io::ImporterOFF<OpenMeshType>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))' being compiled
+          with
+          [
+              OpenMeshType=MyMesh,
+              MESH_TYPE=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import.h(135): message : see reference to class template instantiation 'vcg::tri::io::ImporterOFF<OpenMeshType>' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_stl.h(163,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_stl.h(153): message : while compiling class template member function 'bool vcg::tri::io::ImporterSTL<OpenMeshType>::IsSTLMalformed(const char *,bool &)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_stl.h(203): message : see reference to function template instantiation 'bool vcg::tri::io::ImporterSTL<OpenMeshType>::IsSTLMalformed(const char *,bool &)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import.h(130): message : see reference to class template instantiation 'vcg::tri::io::ImporterSTL<OpenMeshType>' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(623,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(378): message : while compiling class template member function 'int vcg::tri::io::ImporterPLY<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::PlyInfo &)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(370): message : see reference to function template instantiation 'int vcg::tri::io::ImporterPLY<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::PlyInfo &)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import.h(125): message : see reference to class template instantiation 'vcg::tri::io::ImporterPLY<OpenMeshType>' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(625,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(627,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(677,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(681,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(744,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(748,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(767,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(772,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(929,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(932,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(967,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(993,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(1017,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_ply.h(1018,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(638,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(635): message : while compiling class template member function 'int vcg::tri::io::ImporterVMI<OpenMeshType,long,double,int,short,char>::Read(void *,size_t,size_t)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(710): message : see reference to function template instantiation 'int vcg::tri::io::ImporterVMI<OpenMeshType,long,double,int,short,char>::Read(void *,size_t,size_t)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(984,1): warning C4305: 'argument': truncation from 'double' to 'const P3ScalarType'
+          with
+          [
+              P3ScalarType=float
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(968): message : while compiling class template member function 'bool vcg::tri::io::ImporterOBJ<OpenMeshType>::LoadMaterials(const char *,std::vector<vcg::tri::io::Material,std::allocator<vcg::tri::io::Material>> &,std::vector<std::string,std::allocator<std::string>> &)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(594): message : see reference to function template instantiation 'bool vcg::tri::io::ImporterOBJ<OpenMeshType>::LoadMaterials(const char *,std::vector<vcg::tri::io::Material,std::allocator<vcg::tri::io::Material>> &,std::vector<std::string,std::allocator<std::string>> &)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(1059,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(1062,45): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(874,16): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(864): message : while compiling class template member function 'bool vcg::tri::io::ImporterOBJ<OpenMeshType>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(222): message : see reference to function template instantiation 'bool vcg::tri::io::ImporterOBJ<OpenMeshType>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(896,25): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(787,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(752): message : while compiling class template member function 'void vcg::tri::io::ImporterOBJ<OpenMeshType>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::string &,std::vector<vcg::Color4b,std::allocator<vcg::Color4b>> *)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(276): message : see reference to function template instantiation 'void vcg::tri::io::ImporterOBJ<OpenMeshType>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::string &,std::vector<vcg::Color4b,std::allocator<vcg::Color4b>> *)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(632,126): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(632): message : while compiling class template member function 'int vcg::tri::io::ImporterVMI<OpenMeshType,long,double,int,short,char>::Read_mem(void *,size_t,size_t)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(637): message : see reference to function template instantiation 'int vcg::tri::io::ImporterVMI<OpenMeshType,long,double,int,short,char>::Read_mem(void *,size_t,size_t)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_vmi.h(632,134): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\io_fan_tessellator.h(61,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(479): message : see reference to function template instantiation 'void vcg::tri::io::FanTessellator<vcg::Point3f>(const std::vector<std::vector<vcg::Point3f,std::allocator<vcg::Point3f>>,std::allocator<std::vector<vcg::Point3f,std::allocator<vcg::Point3f>>>> &,std::vector<int,std::allocator<int>> &)' being compiled
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(214): message : while compiling class template member function 'int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)'
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_obj.h(201): message : see reference to function template instantiation 'int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)' being compiled
+          with
+          [
+              OpenMeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\io_fan_tessellator.h(62,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\space\triangle3.h(205,22): warning C4244: 'initializing': conversion from 'double' to 'P3ScalarType', possible loss of data
+          with
+          [
+              P3ScalarType=float
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\bitquad_support.h(1181): message : see reference to function template instantiation 'P3ScalarType vcg::QualityRadii<float>(const vcg::Point3<P3ScalarType> &,const vcg::Point3<P3ScalarType> &,const vcg::Point3<P3ScalarType> &)' being compiled
+          with
+          [
+              P3ScalarType=float
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\bitquad_support.h(1158): message : while compiling class template member function 'void vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>::QuadTriangulate(std::vector<MyVertex *,std::allocator<MyVertex *>> &)'
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_off.h(423): message : see reference to function template instantiation 'void vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>::QuadTriangulate(std::vector<MyVertex *,std::allocator<MyVertex *>> &)' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_off.h(423): message : see reference to class template instantiation 'vcg::tri::BitQuad<MESH_TYPE,vcg::tri::GeometricInterpolator<MyVertex>>' being compiled
+          with
+          [
+              MESH_TYPE=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_off.h(130): message : while compiling class template member function 'int vcg::tri::io::ImporterOFF<OpenMeshType>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))'
+          with
+          [
+              OpenMeshType=MyMesh,
+              MESH_TYPE=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\wrap\io_trimesh\import_off.h(125): message : see reference to function template instantiation 'int vcg::tri::io::ImporterOFF<OpenMeshType>::OpenStream(MESH_TYPE &,std::istream &,int &,vcg::CallBackPos (__cdecl *))' being compiled
+          with
+          [
+              OpenMeshType=MyMesh,
+              MESH_TYPE=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\container\simple_temporary_data.h(107,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\container\simple_temporary_data.h(107): message : while compiling class template member function 'unsigned int vcg::VectorNBW<ATTR_TYPE>::size(void) const'
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\container\simple_temporary_data.h(196): message : see reference to function template instantiation 'unsigned int vcg::VectorNBW<ATTR_TYPE>::size(void) const' being compiled
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\container\simple_temporary_data.h(132): message : see reference to class template instantiation 'vcg::VectorNBW<ATTR_TYPE>' being compiled
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\base.h(302): message : see reference to class template instantiation 'vcg::SimpleTempData<CONT,ATTR_TYPE>' being compiled
+          with
+          [
+              CONT=std::vector<MyVertex,std::allocator<MyVertex>>,
+              ATTR_TYPE=bool
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1968): message : see reference to function template instantiation 'ATTR_TYPE &vcg::tri::TriMesh<std::vector<MyVertex,std::allocator<MyVertex>>,std::vector<MyFace,std::allocator<MyFace>>,std::vector<MyEdge,std::allocator<MyEdge>>,vcg::tri::DummyContainer,vcg::tri::DummyContainer>::AttributeHandle<ATTR_TYPE,std::vector<MyVertex,std::allocator<MyVertex>>>::operator []<MyVertex>(const RefType &)' being compiled
+          with
+          [
+              ATTR_TYPE=bool,
+              RefType=MyVertex
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1968): message : see reference to function template instantiation 'ATTR_TYPE &vcg::tri::TriMesh<std::vector<MyVertex,std::allocator<MyVertex>>,std::vector<MyFace,std::allocator<MyFace>>,std::vector<MyEdge,std::allocator<MyEdge>>,vcg::tri::DummyContainer,vcg::tri::DummyContainer>::AttributeHandle<ATTR_TYPE,std::vector<MyVertex,std::allocator<MyVertex>>>::operator []<MyVertex>(const RefType &)' being compiled
+          with
+          [
+              ATTR_TYPE=bool,
+              RefType=MyVertex
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\complex\algorithms\point_sampling.h(1934): message : while compiling class template member function 'void vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::PoissonDiskPruning(VertexSampler &,MeshType &,float,vcg::tri::SurfaceSampling<MeshType,VertexSampler>::PoissonDiskParam &)'
+          with
+          [
+              VertexSampler=vcg::tri::MeshSampler<MyMesh>,
+              MeshType=MyMesh
+          ]
+E:\project\_PointCloud_A_Processing\Rotation_Align\Rotation_Align\PcLoad.hpp(127): message : see reference to function template instantiation 'void vcg::tri::SurfaceSampling<MyMesh,vcg::tri::MeshSampler<MyMesh>>::PoissonDiskPruning(VertexSampler &,MeshType &,float,vcg::tri::SurfaceSampling<MeshType,VertexSampler>::PoissonDiskParam &)' being compiled
+          with
+          [
+              VertexSampler=vcg::tri::MeshSampler<MyMesh>,
+              MeshType=MyMesh
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\container\simple_temporary_data.h(87,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\container\simple_temporary_data.h(86): message : while compiling class template member function 'void vcg::VectorNBW<ATTR_TYPE>::resize(size_t)'
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+E:\OpenLib\VCG\VCGLib202206\vcglib-main\vcg\container\simple_temporary_data.h(191): message : see reference to function template instantiation 'void vcg::VectorNBW<ATTR_TYPE>::resize(size_t)' being compiled
+          with
+          [
+              ATTR_TYPE=bool
+          ]
+  Rotation_Align.vcxproj -> E:\project\_PointCloud_A_Processing\Rotation_Align\x64\Debug\Rotation_Align.exe
